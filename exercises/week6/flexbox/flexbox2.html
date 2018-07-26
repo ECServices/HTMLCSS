@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Flexbox</title>
+  <style>
+    .layout {
+      display: flex;
+      margin-bottom: 30px;
+    }
+
+    .layout .box {
+      height: 50px;
+      padding: 10px;
+      background: #F7A21B;
+    }
+
+    .layout > .box:nth-child(odd) {
+      background: #6A1384;
+    }
+  </style>
+</head>
+<body>
+  <h3>Uppgift 2</h3>
+  <div class="layout">
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+  </div>
+</body>
+</html>
