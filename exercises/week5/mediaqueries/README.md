@@ -27,3 +27,10 @@ a) Fönstrets storlek är i porträttläge.
 b) Fönstrets storlek är i porträttläge **och** bredden på fönstret är mindre än 700 pixlar.
 
 c) Fönstrets storlek är i porträttläge **och** bredden på fönstret är mindre än 700 pixlar **eller** att fönstret är i landskapsläge, oavsett storlek på fönstret.
+
+## Övning 5
+a) Öppna applikationen med hjälp av Google Chrome Developer Tools **Device Mode**. Välj att rendera sidan som Galaxy S5 eller Iphone. Hur ser den ut? Funkar dina media queries som de ska?
+
+b) Anpassa sidan så att den blir mobiloptimiserad och att dina media queries fungerar utan att ändra på CSS-koden.
+
+## Övning 6
