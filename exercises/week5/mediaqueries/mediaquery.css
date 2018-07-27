@@ -30,9 +30,3 @@ header .small-title {
   padding: 10px;
   color: #000;
 }
-
-@media (max-width: 600px) {
-  body {
-    background: blue;
-  }
-}
