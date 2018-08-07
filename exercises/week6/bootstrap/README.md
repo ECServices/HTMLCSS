@@ -169,8 +169,8 @@ Bilden finns i mappen _resources_.
 ## Övning 10
 Lista följande data i en bootstrap-tabell
 
-| Namn       | Ålder           | Stad | Tröjstorlek |
-| ------------- |-------------| -----| ----------- |
+| Namn          | Ålder           | Stad | Tröjstorlek |
+| ------------- |------------- | ---- | ----------- |
 | Lisa Svensson    | 45 | Ängelholm | M |
 | Gunnar Gunnarsson    | 19 | Borlänge | M |
 | Mia Larsson | 33 | Boden | XL |
