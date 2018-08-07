@@ -176,15 +176,13 @@ Lista följande data i en bootstrap-tabell
 | Mia Larsson | 33 | Boden | XL |
 | Kim Ek | 87 | Åmål | S |
 
-## Övning Display/visibility
+## Övning 11
 
-## Övning Utilities 1
+a) Hur kan du använda dig av bootstraps `display`-klasser för att kontrollera när ett element ska visas? Implementera ett exempel där en bild visas på små skärmar men göms på stora skärmar?
 
-## Övning Utilities 2
+b) Förklara skillnaden mellan `d-none`-klassen och `visible`-klassen i bootstrap. Implementera ett exempel som visar på skillnaderna.
 
-## Övning Utlities 3
-
-## Övning Components 1
+## Övning 12
 Skapa en HTML-sida för att registrera användaruppgifter. Du får själv utforma hur sidan ska se ut men den ska uppfylla följande krav:
 
 * Användaren ska kunna skriva i sitt för- och efternamn i ett input-fält.
@@ -199,41 +197,17 @@ Skapa en HTML-sida för att registrera användaruppgifter. Du får själv utform
 * Användaren ska kunna välja att acceptera sidans villkor genom att klicka i en checkbox.
 * Det ska finnas en knapp med titeln "Registrera".
 
-## Övning Components 2
+## Övning 13
+a) Skapa en header med hjälp av bootstrap-komponenter som innehåller följande:
+* En bild på en logotyp (Välj valfri logo från ett företag)
+* En dropdown-meny med länkar till undersidor. (Länkarna behöver inte leda till något)
+* En sökruta
 
-## Övning Sass?
-* Teman
-* mixins
-*
+b) Skapa en sidomeny med hjälp av `nav`-klassen och använd samma länkar som i a). Menyn ska ligga till vänsterkanten på html-sidan.
 
-## content
-* Gå igenom hur man sätter man upp ett boootstrap-projekt
-* ~~col (col-2, col-8 etc)~~
-* ~~Auto column (e.g. vad händer om man bara sätter en col-x och resten till col? Auto är vad som händer.)~~
-* ~~column wrapping (e.g. vad händer om col-count > 12)~~
-* ~~breakpoints (-sm, -m), col-sm-8 vs col-8~~
-* ~~col-md-auto~~
-* ~~w-100~~
+c) Göm sidomenyn i b) om sidans bredd är liten.
 
-* align-items-center, align-self-center (återkoppla till flexbox)
-* ~~justify-content-center, etc~~
-* no-gutters
-* order?
-* ~~offset och margin~~
+## Övning 14
+Använd dig av bootstrap för att skapa en sida där du presenterar dig själv. Sidan kan t.ex. presenteras som ett CV genom att innehålla en kort beskrivning av dig själv, dina yrkeserfarenheter och utbildningar, samt innehålla en bild på dig själv.
 
-* ~~media objects~~
-* visibility
-* display
-
-* ~~Responsive images~~
-* ~~Tables~~
-
-* Två friare övningar i Komponenter
-* Utilities
-
-### Kanske överkurs?
-* Reboot
-* SASS??
-* mixins
-* Skriva över SASS-variabler
-* Teman?
+Sidan bör också vara responsiv och se bra ut på både stora och små skärmar.
