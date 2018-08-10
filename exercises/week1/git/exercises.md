@@ -1,4 +1,4 @@
-# git
+# Introduktion till `git`
 
 ## Övning 1
 
@@ -22,7 +22,7 @@ git version 2.17.1
 Konfigurera `git` med ert namn och emailadress.
 
 ```
-$ git config --global user.name "Mitt Namn"
+$ git config --global user.name "Mitt Namn"  
 $ git config --global user.email "min@mail.com"
 ```
 
@@ -66,7 +66,7 @@ Gör en commit genom att skriva `git commit -m "Min första commit"`.
 
 ### d)
 
-Skicka commit:en till GitHub med `git push`.
+Skicka ändringarna till GitHub med `git push`.
 
 Du kan kontrollera att din commit har skickats genom att ladda om repots sida på GitHub.
 
@@ -74,4 +74,40 @@ Du kan kontrollera att din commit har skickats genom att ladda om repots sida p�
 
 ### a)
 
-Gör en ny commit
+Gör en ändring i din fil och spara den.
+
+Du kan se alla ändringar med `git diff`.
+
+### b)
+
+Lägg till filen och gör en commit.
+
+### c)
+
+Gör en till commit där du tar bort filen.
+
+### d)
+
+Visa en lista på dina commit:ade ändringar med `git log`.
+
+### e)
+
+Skicka ändringarna till GitHub.
+
+## Övning 5
+
+### a)
+
+Klona ditt repo igen till en ny katalog.
+
+### b)
+
+Gör en commit i den nya katalogen och skicka den till GitHub med `git push`.
+
+### c)
+
+Hämta ändringen i den första katalogen med `git pull`.
+
+## Övning 6
+
+Gör en commit och ångra den mha `git revert`.
