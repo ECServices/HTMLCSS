@@ -94,3 +94,22 @@ a)
 b)
 
 ![6b](images/6-b.png)
+
+## Övning 7
+Du har fått i uppdrag att skapa en layout för en nyhetssida. Uppdragsgivaren vill se en layout för startsidan enligt följande krav:
+
+* Logon ska synas (logo.png) längst upp på sidan.
+* Rubriken på 5 olika artiklar ska synas.
+* Till varje rubrik ska det synas en bild ovanför.
+* Två artiklar (bild och rubrik) ska kunna visas bredvid varandra om fönsterstorleken är tillräckligt stor.
+* Bilderna får aldrig vara bredare än 80% av fönsterstorleken.
+* Rubrikernas storlek ska anpassas till storleken på skärmen.
+
+a) Använd valfritt verktyg för att skapa en designskiss för layouten. Gör en skiss för desktop och en för mobil. Du kan designa sidan hur du vill så länge kraven ovan är uppfyllda.
+
+b) Utgå från `news.html` och använd flexbox för att implementera din layout.
+
+## Fler övningar
+
+* [Flexbox Froggy](https://flexboxfroggy.com/)
+* [Flexbox Defense](http://www.flexboxdefense.com/)

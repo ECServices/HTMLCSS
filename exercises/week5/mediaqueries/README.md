@@ -1,10 +1,10 @@
 # Övningar - Media Queries
 
 ## Övning 1
-a) Använd media queries för att ändra texten från **Company Title Inc.** till **Company** 
+a) Använd media queries för att ändra texten från **Company Title Inc.** till **Company**
 när browserfönstret understiger 600 pixlar.
 
-b) Lägg till att titeln ändras till **Company Title Incorporated** om fönsterstorleken 
+b) Lägg till att titeln ändras till **Company Title Incorporated** om fönsterstorleken
 överstiger 1200 pixlar.
 
 ## Övning 2
@@ -34,3 +34,44 @@ a) Öppna applikationen med hjälp av Google Chrome Developer Tools **Device Mod
 b) Anpassa sidan så att den blir mobiloptimiserad och att dina media queries fungerar utan att ändra på CSS-koden.
 
 ## Övning 6
+
+När kommer CSS-koden i följande media queries att användas?
+
+a) `@media (max-width: 500px) { ... }`
+
+b) `@media all, (max-width: 500px) { ... }`
+
+c) `@media screen and (max-width: 500px) { ... }`
+
+d) `@media all and (max-width: 500px) { ... }`
+
+e) `@media all and not (max-width: 500px) { ... }`
+
+## Övning 7
+Skapa en sida som ändrar bakgrundsfärg beroende på skärmstorlek mellan 500px och 1200px. Sidan ska byta mellan Röd, Orange, Gul, Grön, Cyan, Blå och Violett.
+
+(T.ex. När sidan är < 500 pixlar är bakgrunden röd, < 600 pixlar Orange, < 700 pixlar Gul o.s.v.)
+
+## Övning 8
+
+Du har fått i uppdrag att skapa ett bildgalleri enligt följande specifikationer:
+
+* 10 bilder ska visas på sidan.
+* Bildernas bredd ska vara flytande.
+* Om fönsterbredden är mindre än 1000px ska det visas tre bilder per rad.
+* Om fönsterbredden är mindre än 700px ska det visas två bilder per rad.
+* Om fönsterbredden är mindre än 500px ska det visas en bild per rad.
+
+Implementera enligt ovanstående specifikation. Du kan själv välja vilka bilder som ska visas.
+
+## Övning 9
+Du har fått i uppdrag att skapa layouten till en blogg. Skissen på bloggen ska innehålla:
+
+* En header
+* En sidomeny
+* En titel på ett blogginlägg
+* Inläggets brödtext
+
+a) Använd valfritt verktyg för att skapa en designskiss på hur bloggen skulle kunna se ut enligt kraven ovan. Du bestämmer själv om du vill lägga till fler saker (Länkar, Footer, Dropdown-menyer etc). Skissen ska visa på bloggens layout för desktop, tablet och mobil.
+
+b) Implementera din skiss i HTML och CSS. Lägg fokus på att göra layouten responsiv. Kontrollera resultatet på desktop, tablet och mobil.
