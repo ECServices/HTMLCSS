@@ -73,21 +73,6 @@ c) Visa bilden på följande vis:
 ![6c](images/6-c.png?)
 
 ## Övning 7
+Använd dig av bland annat `transform` för att skapa följande resultat:
 
-transform: translate3d(38px, -61px, -135px) rotate3d(250px,250px,250px,-120deg)
-### TODO:
-
-* ~~translateX etc~~
-* ~~scale~~
-* ~~rotate~~
-* ~~transform origin~~
-* ~~rotate3d~~
-* translateZ
-* ~~skew~~
-* scaleZ
-* ~~perspective~
-* matrix/matrix3d
-
-* multiple usage
-
-* En sida med 3 bilder som ska ligga mellan två containers
+![7](images/7-1.png)

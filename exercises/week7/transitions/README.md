@@ -12,4 +12,4 @@ c) Kvadraten blir en cirkel.
 ## Övning 2
 Används `transistion`-propertyn på bilden för att göra följande animationer när man för muspekaren över den:
 
-a) Bilden snurrar ett varv
+a) Bilden snurrar 4 varv runt sin egen axel.
