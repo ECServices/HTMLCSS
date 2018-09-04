@@ -18,7 +18,7 @@ Använd en `<h1>`-tagg för att lägga till en överskrift i din sida.
 
 Lägg till några paragrafer under överskriften mha `<p>`-taggar.
 
-## Övning 2
+## Övning 3
 
 ### a)
 
@@ -32,7 +32,7 @@ HTML är ett <em>jättebra</em> språk för att skapa <strong>dokument</strong>.
 
 Använd `<hr>` för att infoga en linje mellan två paragrafer.
 
-## Övning 3
+## Övning 4
 
 ### a)
 
@@ -46,7 +46,7 @@ Ge bilderna alternativa beskrivningar med `alt`-attributet.
 
 Ge bilderna titlar med `title`-attributet.
 
-## Övning 4
+## Övning 5
 
 Använd "HTML entitities" för att visa följande text:
 
@@ -54,11 +54,11 @@ Använd "HTML entitities" för att visa följande text:
 &lt;em&gt; används för att ge <em>emfas</em> till ett ord eller ett stycke. &lt;strong&gt; används för att markera <strong>viktig</strong> text.
 </blockquote>
 
-## Övning 5
+## Övning 6
 
 Skapa ett HTML-dokument där du berättar om dig själv. Lägg gärna in några bilder i dokumentet.
 
-## Övning 6
+## Övning 7
 
 Använd `<pre>` för att visa ett stycke indenterad HTML-kod.
 
