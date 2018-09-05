@@ -18,3 +18,7 @@ Skriv en text i mitten av varje box som berättar vilken färg boxen tillhör.
 
 ![1a](images/glass_datatable_1280.png)
 
+###  e) Bygg ett galleri som bilden visar
+
+![1a](images/web_gallery_1280.png)
+
