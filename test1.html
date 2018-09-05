@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <style>
+            input:invalid + span:after {
+                content: '✖';
+                color: #f00;
+                padding-left: 5px;
+    }
+
+        </style>
+    </head>
+    <body>
+
+<fieldset>
+    <legend>Input</legend>
+    <form>
+        <input type="number" max="999" />
+        <span>Felaktig data</span>
+    </form>
+</fieldset>
+
+    </body>
+</html>
