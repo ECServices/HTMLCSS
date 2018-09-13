@@ -17,26 +17,6 @@ c)
 
 ## Övning 2
 
-Använd flexbox för att bygga följande strukturer enligt bilderna nedan.
-
-a)
-
-![2a](images/2-a.png)
-
-b)
-
-![2b](images/2-b.png)
-
-c)
-
-![2c](images/2-c.png)
-
-d)
-
-![2d](images/2-d.png)
-
-## Övning 3
-
 Använd flexbox för att ändra egenskaperna hos boxarna så att:
 
 * Bredden på varje box är max 200px
@@ -44,7 +24,7 @@ Använd flexbox för att ändra egenskaperna hos boxarna så att:
 
 _Tips: Använd **flex-basis**_
 
-## Övning 4
+## Övning 3
 
 Använd flexbox för att visa boxarna på följande sätt:
 
@@ -64,7 +44,7 @@ d)
 
 ![4d](images/4-d.png)
 
-## Övning 5
+## Övning 4
 
 Använd flexbox för att visa boxarna på samma rad. Om boxarna inte får plats på samma rad ska resterande boxar fortsätta på nästa rad som på bilderna nedan:
 
@@ -84,7 +64,7 @@ d)
 
 ![5d](images/5-d.png)
 
-## Övning 6
+## Övning 5
 Använd flexbox för att visa boxarna på följande sätt:
 
 a)
@@ -95,7 +75,7 @@ b)
 
 ![6b](images/6-b.png)
 
-## Övning 7
+## Övning 6
 Du har fått i uppdrag att skapa en layout för en nyhetssida. Uppdragsgivaren vill se en layout för startsidan enligt följande krav:
 
 * Logon ska synas (logo.png) längst upp på sidan.
