@@ -29,11 +29,6 @@ b) Fönstrets storlek är i porträttläge **och** bredden på fönstret är min
 c) Fönstrets storlek är i porträttläge **och** bredden på fönstret är mindre än 700 pixlar **eller** att fönstret är i landskapsläge, oavsett storlek på fönstret.
 
 ## Övning 5
-a) Öppna applikationen med hjälp av Google Chrome Developer Tools **Device Mode**. Välj att rendera sidan som Galaxy S5 eller Iphone. Hur ser den ut? Funkar dina media queries som de ska?
-
-b) Anpassa sidan så att den blir mobiloptimiserad och att dina media queries fungerar utan att ändra på CSS-koden.
-
-## Övning 6
 
 När kommer CSS-koden i följande media queries att användas?
 
@@ -47,12 +42,12 @@ d) `@media all and (max-width: 500px) { ... }`
 
 e) `@media all and not (max-width: 500px) { ... }`
 
-## Övning 7
+## Övning 6
 Skapa en sida som ändrar bakgrundsfärg beroende på skärmstorlek mellan 500px och 1200px. Sidan ska byta mellan Röd, Orange, Gul, Grön, Cyan, Blå och Violett.
 
 (T.ex. När sidan är < 500 pixlar är bakgrunden röd, < 600 pixlar Orange, < 700 pixlar Gul o.s.v.)
 
-## Övning 8
+## Övning 7
 
 Du har fått i uppdrag att skapa ett bildgalleri enligt följande specifikationer:
 
@@ -64,14 +59,3 @@ Du har fått i uppdrag att skapa ett bildgalleri enligt följande specifikatione
 
 Implementera enligt ovanstående specifikation. Du kan själv välja vilka bilder som ska visas.
 
-## Övning 9
-Du har fått i uppdrag att skapa layouten till en blogg. Skissen på bloggen ska innehålla:
-
-* En header
-* En sidomeny
-* En titel på ett blogginlägg
-* Inläggets brödtext
-
-a) Använd valfritt verktyg för att skapa en designskiss på hur bloggen skulle kunna se ut enligt kraven ovan. Du bestämmer själv om du vill lägga till fler saker (Länkar, Footer, Dropdown-menyer etc). Skissen ska visa på bloggens layout för desktop, tablet och mobil.
-
-b) Implementera din skiss i HTML och CSS. Lägg fokus på att göra layouten responsiv. Kontrollera resultatet på desktop, tablet och mobil.
