@@ -57,22 +57,8 @@ c) Rotera bilden med hjälp av `transform` enligt följande bild:
 
 ![5c](images/5-c.png)
 
-d) Rotera bilden med hjälp av `rotate3d` enligt följande bild:
-
-![5d](images/5-d.png)
 
 ## Övning 6
-a) Använd `transform`-funktionerna `rotateX` och `perspective` för att visa bilden på följande vis:
-
-![6a](images/6-a.png)
-
-b) Vad händer när du ändrar på `perspective`?
-
-c) Visa bilden på följande vis:
-
-![6c](images/6-c.png?)
-
-## Övning 7
 Använd dig av bland annat `transform` för att skapa följande resultat:
 
 ![7](images/7-1.png)
