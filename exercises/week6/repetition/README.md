@@ -105,4 +105,26 @@ Skapa ett responsivt rutnät med hjälp av flexbox. Bilden illustrerar hur rutor
 
 ### Övning 4
 
-Prova att implementera Bootstrap-layouten ovan med hjälp av flexbox istället för Boostrap Grid Layout. (Du kan fortfarande använda bootstrap-komponenterna)
+Skapa en layout som beter sig enligt följande:
+
+![41](images/4-1.png)
+
+Stor skärm
+
+![41](images/4-2.png??)
+
+Mellan skärm
+
+![41](images/4-3.png?)
+
+Liten skärm
+
+### Övning 5
+
+Modifiera lösningen i Övning 4 och lägg in en prismeny enligt följande skiss:
+
+![5](images/5.png)
+
+### Övning 6
+
+Prova att implementera Bootstrap-layouten ovan med hjälp av flexbox istället för Boostrap Grid Layout. (Du kan fortfarande använda bootstrap-komponenterna om du vill)
