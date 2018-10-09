@@ -36,7 +36,7 @@ d) Skapa en CSS-regel som gör att boxen L får bakgrundsfärgen Lila.
 Skapa en media query som vid små fönsterstorlekar byter ut en lista med länkar mot en knapp.
 
 ### Övning 2
-Skapa en sidebar ett antal länkar:
+Skapa en sidebar med ett antal länkar:
 
 * Min Profil
 * Inställningar
