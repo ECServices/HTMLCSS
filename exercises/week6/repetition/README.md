@@ -75,7 +75,7 @@ Bilderna finna i mappen resources.
 
 Skapa ett responsivt rutnät med hjälp av flexbox. Bilden illustrerar hur rutorna ska se förhålla sig till varandra enligt följande krav:
 
-* Den högra rutan ska växa dubbelt så snabbt på breddden som de två vänstra.
+* Den vänstra rutan ska växa dubbelt så snabbt på breddden som de två högra.
 
 * En ruta får aldrig vara mindre än 50px i bredd.
 
@@ -85,7 +85,7 @@ Skapa ett responsivt rutnät med hjälp av flexbox. Bilden illustrerar hur rutor
 
 Skapa ett responsivt rutnät med hjälp av flexbox. Bilden illustrerar hur rutorna ska se förhålla sig till varandra.
 
-* Den högra rutan ska växa dubbelt så snabbt på breddden som de två vänstra.
+* Den vänstra rutan ska växa dubbelt så snabbt på breddden som de två högra.
 
 * En ruta får aldrig vara mindre än 50px i bredd.
 
@@ -95,9 +95,9 @@ Skapa ett responsivt rutnät med hjälp av flexbox. Bilden illustrerar hur rutor
 
 Skapa ett responsivt rutnät med hjälp av flexbox. Bilden illustrerar hur rutorna ska se förhålla sig till varandra.
 
-* Den högra rutan ska växa lika så snabbt på breddden som den översta av de tre vänstra rutorna.
+* Den vänstra rutan ska växa lika så snabbt på breddden som den översta av de tre högra rutorna.
 
-* De två understa av de vänstra rutorna ska alltid vara lika breda.
+* De två understa av de högra rutorna ska alltid vara lika breda.
 
 * En ruta får aldrig vara mindre än 50px i bredd.
 
