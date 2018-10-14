@@ -2,18 +2,23 @@
 
 ## Övningar
 
+
 ###  a) Återskapa följande sida
 
-![1a](https://getbootstrap.com/docs/4.1/examples/screenshots/album.png)
+![a](../week6/repetition/images/ec_ovning_1280_bootstrap_1.png)
 
 ###  b) Återskapa följande sida
 
-![1a](https://getbootstrap.com/docs/4.1/examples/screenshots/jumbotron.png)
+![b](https://getbootstrap.com/docs/4.1/examples/screenshots/album.png)
 
 ###  c) Återskapa följande sida
 
-![1a](https://getbootstrap.com/docs/4.1/examples/screenshots/checkout.png)
+![c](https://getbootstrap.com/docs/4.1/examples/screenshots/jumbotron.png)
 
 ###  d) Återskapa följande sida
 
-![1a](https://getbootstrap.com/docs/4.1/examples/screenshots/pricing.png)
+![d](https://getbootstrap.com/docs/4.1/examples/screenshots/checkout.png)
+
+###  e) Återskapa följande sida
+
+![e](https://getbootstrap.com/docs/4.1/examples/screenshots/pricing.png)
